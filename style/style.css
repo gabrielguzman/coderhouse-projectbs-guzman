@@ -1,0 +1,23 @@
+@charset "UTF-8";
+ * {
+  padding: 0;
+  margin: 0;
+}
+/* Backgrounds */
+
+#background-head {
+  background: #000000;
+}
+/*Cambio de tamaño a los container*/
+
+.prueba {
+  height: 83vh;
+}
+
+.prueba-row{
+  height: 83vh;
+}
+
+.footer-bs{
+    height: 19.5vh;
+}
